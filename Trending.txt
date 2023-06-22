@@ -1,0 +1,17 @@
+
+Youtube
+https://www.youtube.com/feed/trending
+
+LinkedIn
+https://www.linkedin.com/jobs/search?keywords=LinkedIn&location=India&locationId=&geoId=102713980&f_TPR=r86400&f_E=2&position=1&pageNum=0
+
+Twitter
+https://twitter.com/explore/tabs/trending
+
+Naukari
+https://www.naukri.com/google-jobs?experience=0&jobAge=1
+
+Udemy Courses
+https://www.udemy.com/courses/development/?price=price-free&sort=popularity
+
+
